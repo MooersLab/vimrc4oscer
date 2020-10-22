@@ -9,7 +9,7 @@ Other editors that I am ignorant about may also be available.
 
 Use the editor nano if you are new to the terminal.
 It is very easy to use.
-The instruction and options appear at the bottom of the screen.
+The instructions and options appear at the bottom of the screen.
 You can master it in 30 minutes.
 
 Vim is a very powerful editor. 
