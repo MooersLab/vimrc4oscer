@@ -13,7 +13,7 @@ You can master it in 30 minutes.
 
 Vim is a very powerful editor. 
 It is worth the pain of building new muscle memory to master it.
-I use vim keybindings in emacs, in Jupyter Notebooks, and to edit LaTeX on Overleaf.
+I use vim keybindings in emacs, in Jupyter Notebooks, in the terminal in zsh (yes, this is possible with oh-my-zsh), and to edit LaTeX on Overleaf.
 
 This computer system is Centos 7. 
 You can check by entering `cat /etc/os-release`.
